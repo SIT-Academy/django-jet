@@ -1,7 +1,7 @@
 from django.db import models
 from django.utils import timezone
 from django.utils.translation import ugettext_lazy as _
-from django.utils.six import python_2_unicode_compatible
+from six import python_2_unicode_compatible
 
 
 @python_2_unicode_compatible
