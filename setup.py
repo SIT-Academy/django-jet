@@ -28,7 +28,7 @@ def get_install_requires():
 
 setup(
     name='sit-academy-django-jet',
-    version='1.0.10',
+    version='1.0.11',
     description='Modern template for Django admin interface with improved functionality',
     long_description=read('README.rst'),
     author='Denis Kildishev',
