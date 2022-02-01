@@ -27,8 +27,8 @@ def get_install_requires():
     return install_requires
 
 setup(
-    name='django-jet',
-    version=__import__('jet').VERSION,
+    name='sit-academy-django-jet',
+    version=1,
     description='Modern template for Django admin interface with improved functionality',
     long_description=read('README.rst'),
     author='Denis Kildishev',
